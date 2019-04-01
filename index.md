@@ -1,123 +1,59 @@
 ---
 layout: default
 ---
+# Nuestros Pastores
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Ángel Cardoza 
+<img src='assets/cardoza.jpg'>
 
-[Link to another page](./another-page.html).
+Nació en la ciudad de Santo Domingo, en el año 1986. Creció asistiendo a la iglesia y desde muy temprana edad creyó en el Señor Jesucristo y tuvo el deseo de dedicarse exclusivamente en la obra del Señor. En el año 2002-2003 realizó un año de estudios bíblicos en el Instituto Palabra de Vida, en el Estado de Nueva York.
 
-There should be whitespace between paragraphs.
+A su regreso sirvió como líder juvenil y maestro en la Iglesia Cristiana de la Comunidad. En el año 2010 obtuvo su título  de Administración de Empresas de la Universidad Católica Santo Domingo y en ese mismo año contrajo matrimonio con Yamel Romero.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+En diciembre de 2011 nació su primera hija, Noa Yamel y en Julio de 2012, los tres partieron a la ciudad de Los Ángeles, dónde Ángel estudió por 4 años para obtener su Maestría en Divinidad del Seminario Master’s. Allí formó parte de la Iglesia Grace Community Church,  donde se involucró en la enseñanza en un estudio bíblico hogareño y en la escuela dominical de adultos. En el año 2013,  Dios los bendijo con la llegada de su hija Abi y en el año 2015,  con una hija más: Ana.
 
-# Header 1
+A mediados del año 2016, Ángel regresó de Estados Unidos para integrarse a tiempo completo en las labores ministeriales de la iglesia Cristiana de la Comunidad.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Parménides Vidal
+<img src='assets/parmenides.jpg'>
+Nació en San Juan de la Maguana,  a finales de la década del 60. Sus padres: Lic. Miguel Ángel Vidal y la Prof. Elena Montero Roa.
 
-## Header 2
+En octubre de 1996 contrae matrimonio con Arlina Inés Luciano, con quien procrea dos hijos: Arlette y Ronny Miguel Vidal Luciano.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Siendo apenas un pre-adolescente recibió al Señor Jesucristo como su salvador, en la iglesia Asamblea de Dios de Vallejuelo, municipio de San Juan de la Maguana.
 
-### Header 3
+Su liderazgo se inicia en la Iglesia Evangélica Menonita “Buenas Nuevas” de San Juan, en esta congregación fue líder del grupo de jovencitos y jóvenes.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+A principio de los años 90 se traslada a Santo Domingo y a su llegada asiste a Iglesia Evangélica Menonita “Príncipe de Paz”, sin embargo, poco tiempo después decide hacerse miembro de la Iglesia Evangélica Menonita Lirio de los Valles, (hoy Iglesia Cristiana de la Comunidad).
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+En la actualidad,  Parménides Vidal es Co-pastor de la Iglesia Cristiana de la Comunidad y coordinador del trabajo de los diáconos.
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Es un expositor pleno de la Palabra de Dios por medio de los Estudios Bíblicos y el mensaje en los cultos. El hermano Parménides es licenciado en Derecho y en Teología y posee el título de Maestría en Teología y Consejería Familiar.
 
 
-### Definition lists can be used with HTML syntax.
+### Lorenzo Mota King
+<img src='assets/mota.jpg'>
+Nació en la provincia de Samaná,  República Dominicana,  en agosto de 1955,  siendo sus padres: Santos Mota Bock y Regina King de Mota.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+El 24 de Julio de 1994 contrae matrimonio con Estela Peña de Mota, en ceremonia celebrada en la Iglesia Menonita Lirio de los Valles, oficiada por el Pastor Cristóbal Cardoza.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Desarrolló su niñez bajo la guianza de la palabra de Dios y  siendo apenas un adolescente recibió al Señor Jesucristo como su salvador personal, en la iglesia  Metodista Libre de Sabana de la Mar, y justo cuando había cumplido 15 años de edad  fue bautizado. Inició  su liderazgo en  la misma Iglesia, trabajando con jóvenes e involucrándose en la predicación de la Palabra, viajando a pueblos cercanos como Las Cañitas,  Magua y El Valle de Sabana de la Mar; posteriormente se trasladó al  municipio de Haina,  donde se incorporó al trabajo de la Sociedad de Jóvenes de la Iglesia de Dios, participando en la Directiva local de los Jóvenes, así como el liderato Nacional, llegando a ser Director del Distrito Sur de la Juventud de la Iglesia de Dios.
 
-```
-The final element.
-```
+Durante todo ese tiempo formó parte de diferentes organizaciones, como la Agrupación Músico Vocal Mensajeros de Cristo y la Agrupación Musical Nosotros y Él.
+
+Luego fortaleció su vínculos con el Pastor Cristóbal Cardoza, con quien comenzó a trabajar y apoyarlo en su ministerio pastoral en la Iglesia  Menonita Lirio de los Valles, hoy  Iglesia Cristiana de la Comunidad, donde ha servido en diferentes posiciones en el liderazgo de dicha congregación, llegando a ser, diácono, Anciano, coordinador del Comité de Evangelismo, etc.
+
+En la actualidad,  Lorenzo Mota King forma parte del equipo pastoral de la Iglesia Cristiana de la Comunidad, labor que desempeña en coordinación con los demás miembros del equipo de pastores
+
+Es un expositor pleno de la Palabra de Dios por medio de los estudios bíblicos y el mensaje en los cultos.
+
+En el area profesional, el hermano Lorenzo Mota King,  es licenciado en contabilidad, especializado en Auditoría Externa y Lic. en Teología, mención Consejería Familiar.
+En el plano laboral, entre otras cosas, se desempeña como Director Ejecutivo del Servicio Social de Iglesias Dominicanas.
+
+# Que Creemos
+
+Creemos que Dios creó todas las cosas, pero el hombre se ha rebelado contra Dios. Dios nos ama y envía a su hijo, Jesucristo, a vivir una vida perfecta en nuestro lugar, murió por nuestros pecados y resucitó de entre los muertos tres días después.
+
+Todos los que se arrepientan y creen en Jesús recibirán la vida eterna. La iglesia de Dios existe para hacer discípulos de Cristo, predicando su evangelio hasta que Jesús regrese para juzgar al mundo.
+
+Todas estas cosas están escritas en las escrituras perfectas de Dios, la Biblia. Para obtener más detalles sobre lo que creemos, [lea nuestra declaración de fe](assets/declaracion_de_fe.pdf).

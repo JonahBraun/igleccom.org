@@ -1,4 +1,110 @@
 ---
 ---
 
+
+$section-headings-color: #5F8A92 !default;
+$header-bg-color: #fff !default;
+$header-bg-color-secondary: #F1D7BD !default;
+
+$body-text-color: #606c71 !default;
+$body-link-color: #0C628B !default;
+
 @import 'jekyll-theme-cayman';
+
+.fb-page {
+	margin-bottom: 2rem;
+}
+
+h1 { 
+	font-size: 1.8em;
+//	text-transform: uppercase;
+//	letter-spacing: .1rem;
+}
+
+.page-header{
+
+  @include large {
+    padding: 1rem 1rem;
+  }
+
+  @include medium {
+    padding: 1rem 0rem;
+  }
+
+  @include small {
+    padding: 0rem 0rem;
+  }
+}
+.page-header img {
+	width: 400px;
+	max-width: 100%;
+}
+
+div#contact{
+	p{
+		padding-left: 2rem;
+	}
+
+	.svg-icon{
+		float: left;
+		display: block;
+		margin-left: -2rem;
+		margin-top: .34rem;
+	}
+}
+
+article {
+	img {
+		float: left;
+		margin-right: 1rem;
+	}
+}
+
+footer{
+	border-top: .5px solid #000;
+	background: black;
+	width: 100%;
+	overflow: hidden;
+
+	img {
+		margin-top: 0;
+		margin-bottom: 0;
+		margin-left: 50%;
+		transform: translateX(-50%);
+	}
+
+  @include large {
+		img { width: 100%; }
+  }
+
+  @include medium {
+		img { width: 200%; }
+  }
+
+  @include small {
+		img { width: 300%; }
+  }
+}
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+$svg-icon-base: $body-text-color;
+
+.svg-icon{
+  width: 1em;
+  height: 1em;
+
+  path,
+  polygon,
+  rect{
+    fill: $svg-icon-base;
+  }
+
+  circle{
+    stroke: $svg-icon-base;
+    stroke-width: 1;
+  }
+}
+
