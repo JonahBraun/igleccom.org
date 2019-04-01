@@ -4,3 +4,4 @@ show_downloads: true
 google_analytics: UA-137172572-1
 theme: jekyll-theme-cayman
 url: https://jonahbraun.github.io/igleccom.org/
+baseurl: https://jonahbraun.github.io/igleccom.org/
