@@ -54,6 +54,16 @@ div#contact{
 }
 
 article {
+	margin-top: 2rem;
+	
+	// Get first pastor title and heading closer.
+	h1:first-child{
+		margin-bottom: 0;
+	}
+	h3:first-of-type{
+		margin-top: 0;
+	}
+
 	img {
 		float: left;
 		margin-right: 1rem;
