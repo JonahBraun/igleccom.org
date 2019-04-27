@@ -64,11 +64,6 @@ div#contact{
 	p{
 		padding-left: 2rem;
 
-		img {
-			float: right;
-			height: 100%;
-		}
-
 		img.icon {
 			width: 1.5em;
 			height: 1.5em;
@@ -91,6 +86,15 @@ div#contact{
 }
 
 p.map {
+	display: table;
+	white-space: nowrap;
+}
+
+// I was really tired when I wrote this, can you tell?
+img.mapmap {
+	float: right;
+	max-height: 6em;
+	margin: 1em;
 }
 
 article {
