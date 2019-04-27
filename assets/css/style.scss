@@ -22,6 +22,8 @@ h1 {
 }
 
 .page-header{
+	background: url('/assets/Wheat-BackGround-100px_2.jpg') center;
+	background-size: 100%;
 
   @include large {
     padding: 1rem 1rem;
@@ -32,25 +34,63 @@ h1 {
   }
 
   @include small {
+		//background-size: 700px;
+
     padding: 0rem 0rem;
   }
 }
+
+img.right-50 {
+	float: right;
+	max-width: 50%;
+}
+
 .page-header img {
 	width: 400px;
 	max-width: 100%;
 }
 
+.invite {
+	margin: 1.5rem auto;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-size: 1.5rem;
+}
+.times {
+	margin-bottom: 2.5em;
+}
+
 div#contact{
 	p{
 		padding-left: 2rem;
-	}
 
-	.svg-icon{
-		float: left;
-		display: block;
-		margin-left: -2rem;
-		margin-top: .34rem;
+		img {
+			float: right;
+			height: 100%;
+		}
+
+		img.icon {
+			width: 1.5em;
+			height: 1.5em;
+
+			float: left;
+			display: block;
+
+			margin-left: -2rem;
+		}
+		.svg-icon{
+			width: 1em;
+			height: 1em;
+
+			float: left;
+			display: block;
+			margin-left: -2rem;
+			margin-top: .34rem;
+		}
 	}
+}
+
+p.map {
 }
 
 article {
@@ -103,9 +143,6 @@ SVG Icons - svgicons.sparkk.fr
 $svg-icon-base: $body-text-color;
 
 .svg-icon{
-  width: 1em;
-  height: 1em;
-
   path,
   polygon,
   rect{
