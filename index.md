@@ -30,11 +30,3 @@ Coordina el trabajo con los diáconos y los trabajo con el ministerio de evangel
 
 Está casado con Estela Peña.
 
-
-# Que Creemos
-
-Creemos que Dios creó todas las cosas, pero el hombre se ha rebelado contra Dios. Dios nos ama y envía a su hijo, Jesucristo, a vivir una vida perfecta en nuestro lugar, murió por nuestros pecados y resucitó de entre los muertos tres días después.
-
-Todos los que se arrepientan y creen en Jesús recibirán la vida eterna. La iglesia de Dios existe para hacer discípulos de Cristo, predicando su evangelio hasta que Jesús regrese para juzgar al mundo.
-
-Todas estas cosas están escritas en las escrituras perfectas de Dios, la Biblia. Para obtener más detalles sobre lo que creemos, [lea nuestra declaración de fe](assets/declaracion_de_fe.pdf).

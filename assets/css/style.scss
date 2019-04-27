@@ -97,8 +97,18 @@ img.mapmap {
 	margin: 1em;
 }
 
+.inverse {
+	background: #69959c;
+	color: #fff;
+
+	h1, h3 {
+		color: #fff;
+	}
+}
+
 article {
 	margin-top: 2rem;
+	width: 100%;
 	
 	// Get first pastor title and heading closer.
 	h1:first-child{
