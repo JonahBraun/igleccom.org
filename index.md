@@ -11,14 +11,6 @@ Es administrador de empresas de profesión y obtuvo una maestría en divinidad d
 
 Está casado con Yamel Romero y juntos tienen 5 hijos: Noa, Abi, Ana, Manuel y Mateo
 
-### Parménides Vidal – Pastor Asociado
-<img src='assets/parmenides.jpg'>
-El Pastor Parménides Vidal fue guiado a Cristo a penas siendo un pre-adolescente, San Juan de la Maguana, lugar donde nació.
-
-Inicia ha asistir a la ICC desde mediados  de los años 90, cuando se traslada a vivir a la ciudad de Santo Domingo. Es Licenciado en Administración de Empresas y posee una Maestría en Teología. Entre sus funciones se encuentran la coordinación del ministerio de hombres. Asimismo esta a cargo del ministerio para niños OAMSA en nuestra congregación.
-
-Está casado con Arlina Luciano y juntos tienen 2 hijos: Arlette y Ronny.
-
 
 ### Lorenzo Mota King – Pastor Asociado
 <img src='assets/mota.jpg'>
