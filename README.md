@@ -1,4 +1,4 @@
-Site: https://igleccom.org
+Site: https://icc.do
 
 Icons: http://svgicons.sparkk.fr/
 
