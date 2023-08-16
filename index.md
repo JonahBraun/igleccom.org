@@ -22,3 +22,5 @@ Coordina el trabajo con los diáconos y los trabajo con el ministerio de evangel
 
 Está casado con Estela Peña.
 
+# Iglesia
+<img src='assets/iglesia.jpeg'>
